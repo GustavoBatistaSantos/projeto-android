@@ -87,7 +87,7 @@ main{
     margin-bottom: 30px;
     padding: 20px;
     background-color: white;
-    box-shadow: 0px, 0px 10px rgba(0, 0, 0, 0.416) ;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.416) ;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
 }
